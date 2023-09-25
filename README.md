@@ -18,11 +18,6 @@ El juego incluye un teclado en la interfaz para facilitar la selección de letra
 
 Cada vez que el usuario selecciona una letra incorrecta, se dibuja una parte adicional del ahorcado.
 
-## Capturas de Pantalla
-
-![Formulario de ingreso de palabra](https://raw.github.com/EstebanCarrilloG/ahorcado-react/gh-pages/assets/ventana-de-configuracion.jpg)
-![Ventana del juego](https://raw.github.com/EstebanCarrilloG/ahorcado-react/gh-pages/assets/ventana-del-juego.jpg)
-
 ## Uso del Juego
 
 - Ingrese la palabra que los demás jugadores deberán adivinar en el formulario. Opcionalmente, proporcione una pista para ayudar a los demás jugadores.
@@ -30,3 +25,15 @@ Cada vez que el usuario selecciona una letra incorrecta, se dibuja una parte adi
 - El juego mostrará la representación visual del ahorcado a medida que se cometen errores.
 - Intente adivinar la palabra antes de que se complete la figura del ahorcado.
 - ¡Disfrute del juego del ahorcado!.
+
+## Capturas de Pantalla
+
+![Formulario de ingreso de palabra](https://raw.github.com/EstebanCarrilloG/ahorcado-react/gh-pages/assets/ventana-de-configuracion.jpg)
+
+![Ventana del juego](https://raw.github.com/EstebanCarrilloG/ahorcado-react/gh-pages/assets/ventana-del-juego.jpg)
+
+## Demo
+
+Juego del ahorcado [aqui](http://ahorcado.edeptec.com/)
+
+
