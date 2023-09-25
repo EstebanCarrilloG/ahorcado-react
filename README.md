@@ -1,8 +1,8 @@
-# Juego del Ahorcado en React
+# Juego del Ahorcado
 
 ## Descripción del Proyecto
 
-El **Juego del Ahorcado en React** es una divertida implementación de un clásico juego de adivinanza de palabras. Los jugadores deben adivinar una palabra oculta, letra por letra, antes de que aparezca la figura del ahorcado en su totalidad. Este proyecto se ha desarrollado utilizando la biblioteca React para crear una experiencia de juego interactiva y atractiva.
+El **Juego del Ahorcado** es una divertida implementación de un clásico juego de adivinanza de palabras. Los jugadores deben adivinar una palabra oculta, letra por letra, antes de que aparezca la figura del ahorcado en su totalidad. Este proyecto se ha desarrollado utilizando la biblioteca React para crear una experiencia de juego interactiva y atractiva.
 
 ## Características
 
